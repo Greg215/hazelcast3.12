@@ -1,1 +1,1 @@
-# hazelcast3.12.7
+# hazelcast3.12
